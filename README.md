@@ -7,4 +7,4 @@ Tarefas [] criar interface. [] criar botões numéricos. [] Criar botões de ope
 
 Tecnologias utilizadas
 
-C:\Users\PC\Pictures\imagem.png
+
