@@ -13,6 +13,8 @@ Aprender a criar uma interface amigável; Colocar em prática a interação com 
  [] criar lógica de claculo 
  [] mostrar o resultado no visor.
 
-Tecnologias utilizadas
+                                                                Tecnologias utilizadas
+
+                                                                C:\Users\PC\Pictures\imagem.png
 
 
