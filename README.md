@@ -15,6 +15,6 @@ Aprender a criar uma interface amigável; Colocar em prática a interação com 
 
                                                                 Tecnologias utilizadas
 
-                                                                C:\Users\PC\Pictures\imagem.png
+                                                              C:\Users\PC\Pictures\imagem.png
 
 
