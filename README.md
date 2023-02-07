@@ -6,12 +6,12 @@ Dispositivo para a realização de cálculos numéricos.
 Aprender a criar uma interface amigável; Colocar em prática a interação com o usuário; Dados matemáticos manipulados; Aprender a publicar o projeto; Criar um Readme mais profissional; Organizar melhor a estrutura dos arquivos;
 
                                                                 Tarefas
- [] criar interface. 
- [] criar botões numéricos. 
- [] Criar botões de operadores. 
- [] criar visor de resultados 
- [] criar lógica de claculo 
- [] mostrar o resultado no visor.
+ [x] criar interface. 
+ x[] criar botões numéricos. 
+ [x] Criar botões de operadores. 
+ [x] criar visor de resultados 
+ [x] criar lógica de calculo 
+ [x] mostrar o resultado no visor.
 
                                                                 Tecnologias utilizadas
 
