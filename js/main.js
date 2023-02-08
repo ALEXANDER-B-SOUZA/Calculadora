@@ -3,11 +3,11 @@ function inserir(num)
     const numero = document.getElementById('resultado').innerHTML;
     document.getElementById('resultado').innerHTML = numero + num;
 }
-function clean()
+function limpar()
 {
     document.getElementById('resultado').innerHTML = "";
 }
-function back()
+function voltar()
 {
     const resultado = document.getElementById('resultado').innerHTML;
     document.getElementById('resultado').innerHTML = resultado.substring(0, resultado.length -1);
