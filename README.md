@@ -7,7 +7,7 @@ Aprender a criar uma interface amigável; Colocar em prática a interação com 
 
                                                                 Tarefas
  [x] criar interface. 
- x[] criar botões numéricos. 
+ [x] criar botões numéricos. 
  [x] Criar botões de operadores. 
  [x] criar visor de resultados 
  [x] criar lógica de calculo 
