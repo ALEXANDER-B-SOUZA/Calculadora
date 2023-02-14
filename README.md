@@ -7,6 +7,7 @@ Dispositivo para a realização de cálculos numéricos.
 Aprender a criar uma interface amigável; Colocar em prática a interação com o usuário; Dados matemáticos manipulados; Aprender a publicar o projeto; Criar um Readme mais profissional; Organizar melhor a estrutura dos arquivos;
 
                                                                 Tarefas
+                                                                
  [x] criar interface. 
  [x] criar botões numéricos. 
  [x] Criar botões de operadores. 
