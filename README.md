@@ -1,4 +1,4 @@
-                                                                Calculadora
+                                                                Calculadora 
 
 Dispositivo para a realização de cálculos numéricos.
 
